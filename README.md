@@ -73,7 +73,7 @@
 ### 📊 My Github Stats
 <div display="flex" align="center">
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ayesha19765?cardType=github&theme=tokyonight&preferLogin=false)](https://git.io/awesome-stats-card)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayesha19765&show_icons=true&theme=tokyonight)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ayesha19765&theme=tokyonight)](https://git.io/streak-stats)
 
