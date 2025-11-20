@@ -3,7 +3,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayesha19765/)](https://www.linkedin.com/in/ayesha19765/)
 [![Website Badge](https://img.shields.io/badge/-ashhh.netlify.app-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://ashhh.netlify.app/)](https://ashhh.netlify.app/)
-[![Instagram Badge](https://img.shields.io/badge/-@ayesha19765-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/ayesha_19765/)](https://www.instagram.com/ayesha_19765/)
+<!-- [![Instagram Badge](https://img.shields.io/badge/-@ayesha19765-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/ayesha_19765/)](https://www.instagram.com/ayesha_19765/) -->
 [![Gmail Badge](https://img.shields.io/badge/-ayesha19765-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ayesha19765@gmail.com)](mailto:ayesha19765@gmail.com)
 [![Leetcode Badge](https://img.shields.io/badge/-ayesha19765-green?style=flat&logo=Leetcode&logoColor=white&link=https://leetcode.com/u/ayesha19765/)](https://leetcode.com/u/ayesha19765/)
 <h3 align="left">A digital alchemist from India, transforming ideas into extraordinary code.</h3>
