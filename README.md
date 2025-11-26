@@ -1,4 +1,4 @@
-<img  alt="my banner"  src="thumbnail_2.png" /> 
+<!-- <img  alt="my banner"  src="thumbnail_2.png" />  -->
 <h1 align="left">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" height="30px"/>, I'm Ayesha !</h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayesha19765/)](https://www.linkedin.com/in/ayesha19765/)
