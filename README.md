@@ -69,16 +69,16 @@
 
 
 
-### 📊 My Github Stats
-<div display="flex" align="center">
+<!--### 📊 My Github Stats -->
+<!-- <div display="flex" align="center">
 
-![ayesha19765's Stats](https://github-readme-stats.vercel.app/api?username=ayesha19765&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ayesha19765&theme=vue-dark" alt="GitHub Streak" /></a>
 
 ![ayesha19765's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayesha19765&theme=vue-dark&hide_border=true)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ayesha19765&theme=radical)](https://github-profile-trophy.vercel.app/?username=ayesha19765&theme=radical)
 
- </div>
+ </div> -->
 
 
 ### ✍️ Random Dev Quote
