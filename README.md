@@ -17,7 +17,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at **** -->
 
-- 📫 Reach me at **ayesha@gmail.com**
+- 📫 Reach me at **ayesha19765@gmail.com**
   
 - 🌐  More of me at at [https://ashhh.netlify.app/](https://ashhh.netlify.app/)
 
