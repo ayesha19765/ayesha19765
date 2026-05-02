@@ -23,11 +23,12 @@
 
 
 - ⚡ Fun fact **I think I am a human "404 Not Found" error when it comes to remembering where I put my keys! 😂**
-
+  
+<!-- 
 ### 🎶 Spotify Playing
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=wy4brrpqha9g1hr3u0v7x0p1d&cover_image=true&theme=novatorem&show_offline=false&background_color=ffffff&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=wy4brrpqha9g1hr3u0v7x0p1d&redirect=true)
 
-
+ -->
 
 ### 🚀 Languages and Tools
 
@@ -95,5 +96,17 @@
     <img src="https://komarev.com/ghpvc/?username=ayesha19765">
 </a>
   </div> -->
+## 🐍 Feeding my Pet
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayesha19765/ayesha19765/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayesha19765/ayesha19765/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ayesha19765/ayesha19765/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ayesha19765&label=Profile%20views&color=0e75b6&style=flat" alt="ayesha19765" />
+</p>
 
