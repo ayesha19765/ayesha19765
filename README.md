@@ -29,10 +29,15 @@ Software Engineer | GenAI & Machine Learning Enthusiast | Competitive Programmer
 <img align="right" height="220" width="220" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e">
 
 - 🚀 Software Engineer passionate about building scalable systems and AI-powered applications.
+
 - 🤖 Experienced in Generative AI, LLM evaluation, prompt engineering, and ML-based solutions.
+
 - 💻 Worked on AI-powered Playbook Summarization at **ServiceNow**, integrating LLM workflows, GraphQL APIs, and scalable backend systems.
+
 - 🧠 Built projects across Computer Vision, Deep Learning, Full-stack Development, and Distributed Systems.
+   
 - 🏆 LeetCode Knight (1879) with 700+ problems solved.
+  
 - 🎓 B.Tech Computer Science @ IIIT Gwalior (2022-2026).
 
 📫 Reach me: **ayesha19765@gmail.com**
@@ -145,9 +150,13 @@ MongoDB • MySQL • PostgreSQL • Docker • AWS • Git • Postman
 ## 🏆 Achievements
 
 - 🥇 **Llama Award — ServiceNow Q1 2026**
+  
 - ⭐ **LeetCode Knight (1879)** | Top 5.5% globally | 700+ problems solved
+
 - 🌎 Global Rank **907/33000+** in LeetCode Weekly Contest 428
+
 - 🏆 Finalist — Smart India Hackathon 2024 (ISRO)
+
 - 🎓 Grace Hopper Celebration Scholarship ’24
 
 
